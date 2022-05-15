@@ -12,7 +12,7 @@ UShop is an open source E-commerce app made with Google's Flutter Framework. It'
 
 ## Screens
 
-![](https://raw.githubusercontent.com/app-techsolutionss/ushop/master/screenshots/screenshot-ushop.JPEG)
+![](https://github.com/app-techsolutions/uShop-flutter-ecommerce-shop-master/blob/master/screenshots/screenshot-ushop.JPEG)
 
 
 ## Features
@@ -65,7 +65,7 @@ To learn more about me, join the conversation:
 
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<a href="https://www.linkedin.com/in/apptechsolutions/"><img src="https://github.com/app-techsolutions/ushop/raw/master/app-techsolutions.png" width="100px;" alt=""/><br /><sub><b>App Tech Solutions</b></sub></a>
+<a href="https://www.linkedin.com/in/apptechsolutions/"><img src="https://github.com/app-techsolutions/uShop-flutter-ecommerce-shop-master/blob/master/screenshots/parvez_1600927519.png" width="100px;" alt=""/><br /><sub><b>App Tech Solutions</b></sub></a>
 
 
 <!-- markdownlint-enable -->
