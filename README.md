@@ -65,7 +65,7 @@ To learn more about me, join the conversation:
 
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<a href="https://www.linkedin.com/in/apptechsolutions/"><img src="https://github.com/app-techsolutions/uShop-flutter-ecommerce-shop-master/blob/master/screenshots/parvez_1600927519.png" width="100px;" alt=""/><br /><sub><b>App Tech Solutions</b></sub></a>
+<a href="https://www.linkedin.com/in/apptechsolutions/"><img src="https://github.com/app-techsolutions/uShop-flutter-ecommerce-shop-master/blob/master/screenshots/parvez_1600927519.png" width="100px;" alt=""/><br /><sub><b>Parvez Khan</b></sub></a>
 
 
 <!-- markdownlint-enable -->
